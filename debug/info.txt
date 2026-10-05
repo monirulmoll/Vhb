@@ -1,0 +1,2 @@
+Valid build APK is located here:
+debug/app-debug.apk (Size: ~156 MB)
